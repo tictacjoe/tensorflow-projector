@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "BRT Validation Cloudtrail",
+      "tensorShape": [
+        150,
+        4
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/brt-cloudtrail-events-vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/brt-cloudtrail-events-meta.tsv"
+    }
+  ]
+}
