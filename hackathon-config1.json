@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Mar-30-logs",
+      "tensorName": "BRT logs",
       "tensorShape": [
         150,
         4
