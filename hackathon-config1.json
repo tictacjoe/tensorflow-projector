@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Mar-30-logs",
       "tensorShape": [
         150,
         4
