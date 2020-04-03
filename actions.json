@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "action description clusters",
+      "tensorShape": [
+        150,
+        4
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/actions-vectors.tsv.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/actions-meta.tsv"
+    }
+  ]
+}
