@@ -6,7 +6,7 @@
         150,
         4
       ],
-      "tensorPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/actions-vectors.tsv.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/actions-vectors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/tictacjoe/tensorflow-projector/master/actions-meta.tsv"
     }
   ]
